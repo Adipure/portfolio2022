@@ -19,7 +19,8 @@
 }
 
 .about_me-image {
- object-fit: cover; 
+ height: 100%;
+ object-fit: contain;
  border-radius: 2rem;
  -webkit-border-radius: 2rem;
  -moz-border-radius: 2rem;
