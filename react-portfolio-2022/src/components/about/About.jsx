@@ -21,7 +21,7 @@ const about = () => {
             <article className="about_card">
               <GiFamilyTree className='about_icon'/>
               <h5>Expereince</h5>
-              <small>1+ Years Working Experience</small>
+              <small>1+ Years Experience</small>
             </article>
             <article className="about_card">
               <TbFileCertificate className='about_icon'/>
