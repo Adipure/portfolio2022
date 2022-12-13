@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio2022/static/css/main.fed89fa2.css",
+    "main.js": "/portfolio2022/static/js/main.8d9708d8.js",
+    "static/media/me2.jpg": "/portfolio2022/static/media/me2.7ba757c5d45d71eee2cc.jpg",
+    "static/media/me.jpg": "/portfolio2022/static/media/me.daaa876984092587c151.jpg",
+    "static/media/4AnimeArchive.jpg": "/portfolio2022/static/media/4AnimeArchive.2067cc7075fbda2fb6ff.jpg",
+    "static/media/console.log.jpg": "/portfolio2022/static/media/console.log.a9b503939ae30616e00e.jpg",
+    "static/media/snakeGame.png": "/portfolio2022/static/media/snakeGame.de4eae23b95e0678cc50.png",
+    "static/media/Resume.pdf": "/portfolio2022/static/media/Resume.7ca0783bb056d75c1458.pdf",
+    "static/media/weather.jpg": "/portfolio2022/static/media/weather.03c39bbd50ff1c103257.jpg",
+    "index.html": "/portfolio2022/index.html",
+    "main.fed89fa2.css.map": "/portfolio2022/static/css/main.fed89fa2.css.map",
+    "main.8d9708d8.js.map": "/portfolio2022/static/js/main.8d9708d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fed89fa2.css",
+    "static/js/main.8d9708d8.js"
+  ]
+}
